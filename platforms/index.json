@@ -165,8 +165,15 @@
     {
       "filename": "CommodoreAmigaDemos.json",
       "platformName": "Commodore Amiga Demoscenes",
-      "platformShortname": "amiga",
-      "platformUniqueId": "amiga",
+      "platformShortname": "amigademos",
+      "platformUniqueId": "amigademos",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "CommodoreAmigaDemos.json",
+      "platformName": "Commodore Amiga WHDLoad",
+      "platformShortname": "amigawhd",
+      "platformUniqueId": "amigawhd",
       "revisionNumber": 6
     },
     {
