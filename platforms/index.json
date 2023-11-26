@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/magneticchen/Daijishou/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/iconoclusterdotexe/DaijishouCustom/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
@@ -135,6 +135,41 @@
       "revisionNumber": 6
     },
     {
+      "filename": "CommodoreAmiga500.json",
+      "platformName": "Commodore Amiga 500",
+      "platformShortname": "amiga500",
+      "platformUniqueId": "amiga500",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "CommodoreAmiga1200.json",
+      "platformName": "Commodore Amiga 1200",
+      "platformShortname": "amiga1200",
+      "platformUniqueId": "amiga1200",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "CommodoreAmigaCD32.json",
+      "platformName": "Commodore Amiga CD32",
+      "platformShortname": "amigacd32",
+      "platformUniqueId": "amigacd32",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "CommodoreAmigaCDTV.json",
+      "platformName": "Commodore Amiga CDTV",
+      "platformShortname": "amigacdtv",
+      "platformUniqueId": "amigacdtv",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "CommodoreAmigaDemos.json",
+      "platformName": "Commodore Amiga Demoscenes",
+      "platformShortname": "amiga",
+      "platformUniqueId": "amiga",
+      "revisionNumber": 6
+    },
+    {
       "filename": "CommodorePET.json",
       "platformName": "Commodore - PET",
       "platformShortname": "pet",
@@ -146,6 +181,13 @@
       "platformName": "Commodore - PLUS/4",
       "platformShortname": "plus4",
       "platformUniqueId": "plus4",
+      "revisionNumber": 1
+    },
+    {
+      "filename": "CommodoreVIC20.json",
+      "platformName": "Commodore - VIC20",
+      "platformShortname": "vic20",
+      "platformUniqueId": "vic20",
       "revisionNumber": 1
     },
     {
