@@ -3,8 +3,8 @@
   "revisionNumber": 6,
   "platform": {
     "name": "MSX2",
-    "uniqueId": "msx",
-    "shortname": "msx",
+    "uniqueId": "msx2",
+    "shortname": "msx2",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
