@@ -3,8 +3,8 @@
   "revisionNumber": 5,
   "platform": {
     "name": "Arcade (MAME 2003 Plus)",
-    "uniqueId": "mame",
-    "shortname": "mame",
+    "uniqueId": "mame2003plus",
+    "shortname": "mame2003plus",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
