@@ -305,8 +305,8 @@
     {
       "filename": "MAME2003PLUS.json",
       "platformName": "Arcade (MAME 2003 Plus)",
-      "platformShortname": "mame",
-      "platformUniqueId": "mame",
+      "platformShortname": "mame2003plus",
+      "platformUniqueId": "mame2003plus",
       "revisionNumber": 5
     },
     {
@@ -319,15 +319,15 @@
     {
       "filename": "MSX2.json",
       "platformName": "MSX2",
-      "platformShortname": "msx",
-      "platformUniqueId": "msx",
+      "platformShortname": "msx2",
+      "platformUniqueId": "msx2",
       "revisionNumber": 6
     },
     {
       "filename": "MSX2PLUS.json",
       "platformName": "MSX2+",
-      "platformShortname": "msx",
-      "platformUniqueId": "msx",
+      "platformShortname": "msx2+",
+      "platformUniqueId": "msx2+",
       "revisionNumber": 6
     },
     {
