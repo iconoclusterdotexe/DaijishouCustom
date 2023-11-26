@@ -319,8 +319,8 @@
     {
       "filename": "MSX2.json",
       "platformName": "MSX2",
-      "platformShortname": "msx2",
-      "platformUniqueId": "msx2",
+      "platformShortname": "msx",
+      "platformUniqueId": "msx",
       "revisionNumber": 6
     },
     {
