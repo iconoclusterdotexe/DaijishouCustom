@@ -17,6 +17,16 @@
       "filename": "android.png"
     },
     {
+      "matchPlatformShortname": "cavestory",
+      "matchPlatformUniqueId": "cavestory",
+      "filename": "cavestory.png"
+    },
+    {
+      "matchPlatformShortname": "cloudgaming",
+      "matchPlatformUniqueId": "cloudgaming",
+      "filename": "cloudgaming.png"
+    },
+    {
       "matchPlatformShortname": "dreamcast",
       "matchPlatformUniqueId": "dreamcast",
       "filename": "dc.png"
@@ -355,6 +365,11 @@
       "matchPlatformShortname": "tic80",
       "matchPlatformUniqueId": "tic80",
       "filename": "tic80.png"
+    },
+    {
+      "matchPlatformShortname": "gw",
+      "matchPlatformUniqueId": "gw",
+      "filename": "gw.png"
     },
     {
       "matchPlatformShortname": "tgcd",
