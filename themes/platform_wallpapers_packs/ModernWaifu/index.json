@@ -253,6 +253,11 @@
       "filename": "gb.png"
     },
     {
+      "matchPlatformShortname": "sgb",
+      "matchPlatformUniqueId": "sgb",
+      "filename": "sgb.png"
+    },
+    {
       "matchPlatformShortname": "gw",
       "matchPlatformUniqueId": "gw",
       "filename": "gw.png"
@@ -476,6 +481,11 @@
       "matchPlatformShortname": "moonlight",
       "matchPlatformUniqueId": "moonlight",
       "filename": "moonlight.png"
+    },
+    {
+      "matchPlatformShortname": "ngage",
+      "matchPlatformUniqueId": "ngage",
+      "filename": "ngage.png"
     },
     {
       "matchPlatformShortname": "videos",

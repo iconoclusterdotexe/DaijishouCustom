@@ -327,6 +327,11 @@
       "filename": "pcfx.png"
     },
     {
+      "matchPlatformShortname": "pcengine",
+      "matchPlatformUniqueId": "pcengine",
+      "filename": "pcengine.png"
+    },
+    {
       "matchPlatformShortname": "fds",
       "matchPlatformUniqueId": "fds",
       "filename": "fds.png"
@@ -385,6 +390,101 @@
       "matchPlatformShortname": "pokemini",
       "matchPlatformUniqueId": "pokemini",
       "filename": "pokemini.png"
+    },
+    {
+      "matchPlatformShortname": "supervision",
+      "matchPlatformUniqueId": "supervision",
+      "filename": "supervision.png"
+    },
+    {
+      "matchPlatformShortname": "pc98",
+      "matchPlatformUniqueId": "pc98",
+      "filename": "pc98.png"
+    },
+    {
+      "matchPlatformShortname": "doom",
+      "matchPlatformUniqueId": "doom",
+      "filename": "doom.png"
+    },
+    {
+      "matchPlatformShortname": "cpc",
+      "matchPlatformUniqueId": "cpc",
+      "filename": "cpc.png"
+    },
+    {
+      "matchPlatformShortname": "snesmsu1",
+      "matchPlatformUniqueId": "snesmsu1",
+      "filename": "snesmsu1.png"
+    },
+    {
+      "matchPlatformShortname": "quake",
+      "matchPlatformUniqueId": "quake",
+      "filename": "quake.png"
+    },
+    {
+      "matchPlatformShortname": "quake2",
+      "matchPlatformUniqueId": "quake2",
+      "filename": "quake2.png"
+    },
+    {
+      "matchPlatformShortname": "cannonball",
+      "matchPlatformUniqueId": "cannonball",
+      "filename": "cannonball.png"
+    },
+    {
+      "matchPlatformShortname": "flashback",
+      "matchPlatformUniqueId": "flashback",
+      "filename": "flashback.png"
+    },
+    {
+      "matchPlatformShortname": "odyssey2",
+      "matchPlatformUniqueId": "odyssey2",
+      "filename": "odyssey2.png"
+    },
+    {
+      "matchPlatformShortname": "zxspectrum",
+      "matchPlatformUniqueId": "zxspectrum",
+      "filename": "zxspectrum.png"
+    },
+    {
+      "matchPlatformShortname": "j2me",
+      "matchPlatformUniqueId": "j2me",
+      "filename": "j2me.png"
+    },
+    {
+      "matchPlatformShortname": "rpgmaker",
+      "matchPlatformUniqueId": "rpgmaker",
+      "filename": "rpgmaker.png"
+    },
+    {
+      "matchPlatformShortname": "arduboy",
+      "matchPlatformUniqueId": "arduboy",
+      "filename": "arduboy.png"
+    },
+    {
+      "matchPlatformShortname": "g7400",
+      "matchPlatformUniqueId": "g7400",
+      "filename": "videopac.png"
+    },
+    {
+      "matchPlatformShortname": "chip8",
+      "matchPlatformUniqueId": "chip8",
+      "filename": "chip8.png"
+    },
+    {
+      "matchPlatformShortname": "megaduck",
+      "matchPlatformUniqueId": "megaduck",
+      "filename": "megaduck.png"
+    },
+    {
+      "matchPlatformShortname": "x1",
+      "matchPlatformUniqueId": "x1",
+      "filename": "x1.png"
+    },
+       {
+      "matchPlatformShortname": "wiiu",
+      "matchPlatformUniqueId": "wiiu",
+      "filename": "wiiu.png"
     },
     {
       "matchPlatformShortname": "tgcd",

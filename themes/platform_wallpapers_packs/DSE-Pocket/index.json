@@ -1,12 +1,12 @@
 {
   "name": "DSE-Pocket v2",
-  "description": "A simple and modern wallpaper pack optimized for both 4:3 and 16:9 screens on the Retroid Pocket 2/2+/3/3+/Flip. Be sure to toggle 'Hide Title' under Settings/Appearance.  This wallpaper pack showcases hardware and system box cover art for most popular systems.",
+  "description": "A simple and modern wallpaper pack optimized for both 4:3 and 16:9 screens on the Retroid Pocket 2/2+/3/3+/4/Flip. Be sure to toggle 'Hide Title' under Settings/Appearance.  This wallpaper pack showcases hardware and system box cover art for most popular systems.",
   "authors": [
     "omgitsdose"
   ],
   "sources": [
     "archive.org",
-    "Retro Mega Next"
+    "Retro Mega Next for console/controller images"
   ],
   "previewThumbnailFilename": "thumbnail.png",
   "hasDefaultWallpaper": true,
@@ -111,6 +111,36 @@
       "matchPlatformShortname": "wsc",
       "matchPlatformUniqueId": "wsc",
       "filename": "wonderswancolor.png"
+    },
+    {
+      "matchPlatformShortname": "msx",
+      "matchPlatformUniqueId": "msx",
+      "filename": "msx.png"
+    },
+    {
+      "matchPlatformShortname": "fbneo",
+      "matchPlatformUniqueId": "fbneo",
+      "filename": "fbneo.png"
+    },
+    {
+      "matchPlatformShortname": "tgcd",
+      "matchPlatformUniqueId": "tgcd",
+      "filename": "tgcd.png"
+    },
+    {
+      "matchPlatformShortname": "gc",
+      "matchPlatformUniqueId": "gc",
+      "filename": "gc.png"
+    },
+    {
+      "matchPlatformShortname": "wii",
+      "matchPlatformUniqueId": "wii",
+      "filename": "wii.png"
+    },
+    {
+      "matchPlatformShortname": "android",
+      "matchPlatformUniqueId": "android",
+      "filename": "android.png"
     }
   ]
 }

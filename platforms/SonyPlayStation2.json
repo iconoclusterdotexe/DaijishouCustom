@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 5,
+  "revisionNumber": 7,
   "platform": {
     "name": "Sony PlayStation 2",
     "uniqueId": "ps2",
@@ -20,14 +20,15 @@
     "useCustomScreenAspectRatio": false,
     "customScreenAspectRatio": null,
     "retroAchievementsAlias": "PlayStation 2",
+    "retroAchievementsSystemId": 21,
     "extra": ""
   },
   "playerList": [
     {
       "name": "ps2 - Aethersx2",
       "uniqueId": "ps2.xyz.aethersx2.android",
-      "description": "Supported extensions: iso, chd, gz.",
-      "acceptedFilenameRegex": "^(.*).(?:iso|chd|gz)$",
+      "description": "Supported extensions: iso, chd, gz, mdf.",
+      "acceptedFilenameRegex": "^(.*).(?:iso|chd|gz|mdf|bin)$",
       "amStartArguments": " -n xyz.aethersx2.android/.EmulationActivity\n -a android.intent.action.MAIN\n -e bootPath {file.uri}\n --activity-clear-task \n --activity-clear-top \n ",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
@@ -37,7 +38,7 @@
       "name": "ps2 - Aethersx2 Turnip",
       "uniqueId": "ps2.xyz.aethersx2.custom",
       "description": "Supported extensions: iso, chd, gz.",
-      "acceptedFilenameRegex": "^(.*).(?:iso|chd|gz)$",
+      "acceptedFilenameRegex": "^(.*).(?:iso|chd|gz|mdf|bin)$",
       "amStartArguments": " -n xyz.aethersx2.custom/.EmulationActivity\n -a android.intent.action.MAIN\n -e bootPath {file.uri}\n --activity-clear-task \n --activity-clear-top \n ",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,

@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 5,
+  "revisionNumber": 7,
   "platform": {
     "name": "Arcade (MAME)",
     "uniqueId": "mame",
@@ -21,6 +21,7 @@
     "useCustomScreenAspectRatio": false,
     "customScreenAspectRatio": null,
     "retroAchievementsAlias": "Arcade",
+    "retroAchievementsSystemId": 27,
     "extra": ""
   },
   "playerList": [
@@ -30,6 +31,16 @@
       "description": "Supported extensions: 7z, chd, cmd, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|chd|cmd|zip)$",
       "amStartArguments": "-n com.seleuco.mame4droid/.MAME4droid\n  -a android.intent.action.VIEW\n  -d {file.uri}\n  --activity-clear-task\n  --activity-clear-top",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": true,
+      "extra": ""
+    },
+    {
+      "name": "mame - com.seleuco.mame4droid 2024",
+      "uniqueId": "mame.com.seleuco.mame4droid2024",
+      "description": "Supported extensions: 7z, chd, cmd, zip.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:7z|chd|cmd|zip)$",
+      "amStartArguments": "-n com.seleuco.mame4d2024/com.seleuco.mame4droid.MAME4droid\n  -a android.intent.action.VIEW\n  -d {file.uri}\n  --activity-clear-task\n  --activity-clear-top",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": true,
       "extra": ""

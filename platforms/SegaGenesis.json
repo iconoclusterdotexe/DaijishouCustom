@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 7,
+  "revisionNumber": 8,
   "platform": {
     "name": "Sega Genesis",
     "uniqueId": "genesis",
@@ -22,6 +22,7 @@
     "useCustomScreenAspectRatio": false,
     "customScreenAspectRatio": null,
     "retroAchievementsAlias": "Mega Drive",
+    "retroAchievementsSystemId": 1,
     "extra": ""
   },
   "playerList": [
