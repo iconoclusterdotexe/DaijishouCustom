@@ -363,7 +363,7 @@
       "platformName": "Arcade (MAME 2003 Plus)",
       "platformShortname": "mame2003plus",
       "platformUniqueId": "mame2003plus",
-      "revisionNumber": 5
+      "revisionNumber": 7
     },
     {
       "filename": "MSX.json",
