@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/iconoclusterdotexe/DaijishouCustom/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/magneticchen/Daijishou/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
@@ -163,17 +163,17 @@
       "revisionNumber": 6
     },
     {
-      "filename": "CommodoreAmiga500.json",
-      "platformName": "Commodore Amiga 500",
-      "platformShortname": "amiga500",
-      "platformUniqueId": "amiga500",
-      "revisionNumber": 6
-    },
-    {
       "filename": "CommodoreAmiga1200.json",
       "platformName": "Commodore Amiga 1200",
       "platformShortname": "amiga1200",
       "platformUniqueId": "amiga1200",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "CommodoreAmiga500.json",
+      "platformName": "Commodore Amiga 500",
+      "platformShortname": "amiga500",
+      "platformUniqueId": "amiga500",
       "revisionNumber": 6
     },
     {
@@ -220,10 +220,10 @@
     },
     {
       "filename": "CommodoreVIC20.json",
-      "platformName": "Commodore - VIC20",
+      "platformName": "Commodore VIC20",
       "platformShortname": "vic20",
       "platformUniqueId": "vic20",
-      "revisionNumber": 1
+      "revisionNumber": 5
     },
     {
       "filename": "DOOMGameEngine.json",
