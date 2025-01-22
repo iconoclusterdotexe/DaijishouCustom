@@ -34,14 +34,14 @@
       "platformName": "Arduboy",
       "platformShortname": "arduboy",
       "platformUniqueId": "arduboy",
-      "revisionNumber": 1
+      "revisionNumber": 2
     },
     {
       "filename": "Atari2600.json",
       "platformName": "Atari 2600",
       "platformShortname": "atari2600",
       "platformUniqueId": "atari2600",
-      "revisionNumber": 5
+      "revisionNumber": 6
     },
     {
       "filename": "Atari5200.json",
@@ -76,7 +76,7 @@
       "platformName": "Atari Lynx",
       "platformShortname": "lynx",
       "platformUniqueId": "lynx",
-      "revisionNumber": 6
+      "revisionNumber": 7
     },
     {
       "filename": "AtariST.json",
@@ -132,7 +132,7 @@
       "platformName": "Cave Story Game Engine",
       "platformShortname": "cavestory",
       "platformUniqueId": "cavestory",
-      "revisionNumber": 2
+      "revisionNumber": 3
     },
     {
       "filename": "Chip8.json",
@@ -321,7 +321,7 @@
       "platformName": "GameCube",
       "platformShortname": "gc",
       "platformUniqueId": "gc",
-      "revisionNumber": 8
+      "revisionNumber": 9
     },
     {
       "filename": "Intellivision.json",
@@ -342,7 +342,7 @@
       "platformName": "Java Me",
       "platformShortname": "j2me",
       "platformUniqueId": "j2me",
-      "revisionNumber": 3
+      "revisionNumber": 4
     },
     {
       "filename": "LowResNX.json",
@@ -510,21 +510,21 @@
       "platformName": "Nintendo Switch",
       "platformShortname": "switch",
       "platformUniqueId": "switch",
-      "revisionNumber": 10
+      "revisionNumber": 12
     },
     {
       "filename": "NintendoWii.json",
       "platformName": "Nintendo Wii",
       "platformShortname": "wii",
       "platformUniqueId": "wii",
-      "revisionNumber": 6
+      "revisionNumber": 7
     },
     {
       "filename": "NintendoWiiU.json",
       "platformName": "Nintendo Wii U",
       "platformShortname": "wiiu",
       "platformUniqueId": "wiiu",
-      "revisionNumber": 1
+      "revisionNumber": 5
     },
     {
       "filename": "NintendoWiiWare.json",
@@ -545,7 +545,7 @@
       "platformName": "PICO-8",
       "platformShortname": "pico8",
       "platformUniqueId": "pico8",
-      "revisionNumber": 7
+      "revisionNumber": 8
     },
     {
       "filename": "PalmOS.json",
@@ -573,14 +573,14 @@
       "platformName": "PlayStation Portable",
       "platformShortname": "psp",
       "platformUniqueId": "psp",
-      "revisionNumber": 9
+      "revisionNumber": 10
     },
     {
       "filename": "PlayStationPortableMinis.json",
       "platformName": "PlayStation Portable Minis",
       "platformShortname": "pspminis",
       "platformUniqueId": "pspminis",
-      "revisionNumber": 2
+      "revisionNumber": 3
     },
     {
       "filename": "PokemonMini.json",
@@ -615,7 +615,7 @@
       "platformName": "ScummVM",
       "platformShortname": "scummvm",
       "platformUniqueId": "scummvm",
-      "revisionNumber": 3
+      "revisionNumber": 4
     },
     {
       "filename": "Sega32X.json",
@@ -636,14 +636,14 @@
       "platformName": "Sega Game Gear",
       "platformShortname": "gamegear",
       "platformUniqueId": "gamegear",
-      "revisionNumber": 9
+      "revisionNumber": 10
     },
     {
       "filename": "SegaGenesis.json",
       "platformName": "Sega Genesis",
       "platformShortname": "genesis",
       "platformUniqueId": "genesis",
-      "revisionNumber": 8
+      "revisionNumber": 9
     },
     {
       "filename": "SegaGenesisMSU.json",
@@ -657,7 +657,7 @@
       "platformName": "Sega Master System",
       "platformShortname": "master",
       "platformUniqueId": "master",
-      "revisionNumber": 8
+      "revisionNumber": 9
     },
     {
       "filename": "SegaNAOMI.json",
@@ -839,7 +839,7 @@
       "platformName": "Windows",
       "platformShortname": "windows",
       "platformUniqueId": "windows",
-      "revisionNumber": 2
+      "revisionNumber": 3
     },
     {
       "filename": "WonderSwan.json",

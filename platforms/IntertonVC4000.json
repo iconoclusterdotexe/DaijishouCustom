@@ -14,8 +14,9 @@
       "screenAspectRatioId": 0,
       "useCustomScreenAspectRatio": false,
       "customScreenAspectRatio": null,
-      "retroAchievementsAlias": "Interton VC 4000",
-      "retroAchievementsSystemId": 74,
+      "retroAchievementsConsoleIdList": [
+        74
+      ],
       "extra": ""
     },
     "playerList": [

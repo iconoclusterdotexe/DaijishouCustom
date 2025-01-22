@@ -16,8 +16,10 @@ Type `\help` in your the logger.
 
 ### Notes
  - `\prefs` let you view and modify preferences.
+ - For example `\prefs set bool hide_platforms_page_subtitle true`
  - `\am_start` command can be used by emulator dev to check if Daijishō can launch items via Daijishō to emulator app.
  - `\dsess` command can be used to check whether the site can be used by Daijishō [DSESS](\docs\DSESS.md) scraper. Usage: `\dsess "Your DSESS:... String Here"`.
+
 
 ## Hidden Preferences For `\prefs` Command
 
@@ -31,6 +33,6 @@ Type `\help` in your the logger.
 | `use_lightweight_backup` | Boolean | Skip backups like images if `true`.|
 | `use_nsfw` | Boolean | Set `true` to allow adult content.|
 | `scale_ui` | String | Scale your UI. For example `1.25`.|
-| `genres_widget_nav_aspect_ratio` | String | Aspect ratio for genres widget page box arts. For example `2:3`.|
+| `category_widget_nav_aspect_ratio` | String | Aspect ratio for category widget page box arts. For example `2:3`.|
 
 

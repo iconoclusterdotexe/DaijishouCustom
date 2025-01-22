@@ -14,8 +14,9 @@
       "screenAspectRatioId": 0,
       "useCustomScreenAspectRatio": false,
       "customScreenAspectRatio": null,
-      "retroAchievementsAlias": "Arcadia 2001",
-      "retroAchievementsSystemId": 73,
+      "retroAchievementsConsoleIdList": [
+        73
+      ],
       "extra": ""
     },
     "playerList": [

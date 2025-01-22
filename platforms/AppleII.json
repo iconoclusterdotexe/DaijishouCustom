@@ -15,7 +15,9 @@
       "useCustomScreenAspectRatio": false,
       "customScreenAspectRatio": null,
       "retroAchievementsAlias": "Apple II",
-      "retroAchievementsSystemId": 38,
+      "retroAchievementsConsoleIdList": [
+        38
+      ],
       "extra": ""
     },
     "playerList": [
