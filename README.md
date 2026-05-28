@@ -27,6 +27,9 @@ Daijishō is currently **closed-source**. This repo is for assets and served as 
     <img src="https://img.shields.io/static/v1?label=release+note&message=1.4&style=flat">
 </a>
 
+### The Team
+[@TapiocaFox](https://github.com/TapiocaFox) • [@Post-Mortem](https://github.com/Post-Mortem) • [@Jetup13](https://github.com/Jetup13) • [@official-wizard](https://github.com/official-wizard)
+
 # Make the Most of Daijishō
  1. ***Install preferred emulators***, apps first, then Daijishō will take care of the rest
  2. ***Setup hotkeys*** for better and intuitive navigation
@@ -118,21 +121,10 @@ Daijishō evolved a lot in 2022. Including UI improvements, retro achievements, 
  - [Daijishō EmuGen Wiki](https://emulation.gametechwiki.com/index.php/Daijish%C5%8D)
  - [Daijishō (台字章) History Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%B8%BD%E7%9D%A3%E5%BA%9C%E6%96%87%E5%AE%98%E6%9C%8D%E8%A3%9D)
 
-### Special thank
-[@Jetup13](https://www.github.com/Jetup13) Who creates and mantains configurations plus wiki.
+### Special thanks
+[@MonkoftheFunk](https://www.github.com/MonkoftheFunk) Who helped with the Daijishō wallpaper gallery.
 
-[@Post-Mortem](https://www.github.com/Post-Mortem) Who creates and mantains themes.
+[@iShade](https://www.youtube.com/@usagishade) Who created a lots of conceptual art for Daijishō. And helped a lot with the early stage of Daijishō.
 
-[@official-wizard](https://www.github.com/official-wizard) Who created RetroAchievements API in Kotlin.
-
-[@MonkoftheFunk](https://www.github.com/MonkoftheFunk) Who helped with Daijishō wallpaper gallery.
-
-### Donation
- - [PayPal](https://paypal.me/magneticchen)
-
-> I am taking a break from the project
-
-<!-- [Patreon](https://www.patreon.com/magneticchen) -->
-
-# Copyright
-Copyright©2023 TapiocaFox. Designed in Taiwan.
+# Notice
+`© 2026 [ TapiocaFox | ||` • [Privacy Policy](https://github.com/TapiocaFox/Daijishou/blob/main/privacy-policy.md)

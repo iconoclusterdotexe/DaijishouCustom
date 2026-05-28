@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 12,
+  "revisionNumber": 22,
   "platform": {
     "name": "Nintendo Switch",
     "uniqueId": "switch",
@@ -8,18 +8,17 @@
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
-      "DSESS:BOX_ART:TAGS(scraperKeyword):https://www.switchscores.com/games/search?search_keywords=%7BscraperKeyword%7D&dsess_target_site_selector=div.col-xs-9.col-sm-9.col-md-9.col-lg-9+a&dsess_target_site=%5Ehttps%3A%5C%2F%5C%2Fwww%5C.switchscores%5C.com%5C%2Fgames%5C%2F.%2A%24&dsess_selector=div.col-md-8+%3E+img.img-responsive&dsess_attribute=src",
-      "DSESS:SNAPSHOT:TAGS(scraperKeyword):https://www.mobygames.com/search/quick?q=%7BscraperKeyword%7D&p=203&search=Go&sFilter=1&sG=on&dsess_target_site_selector=div.searchTitle+a&dsess_target_site=%5Ehttps%3A%5C%2F%5C%2Fwww%5C.mobygames%5C.com%5C%2Fgame%5C%2Fswitch%5C%2F.%2A%24&dsess_selector=div.col-md-8.col-lg-8+div.row+img&dsess_attribute=src&dsess_replacer=%5C%2Fs%5C%2F&dsess_replacer_value=%2Fl%2F",
-      "RAW: Nintendo - Switch"
+      "RAW: Nintendo - Switch",
+      "DSESS:BOX_ART:TAGS(scraperKeyword):https://thegamesdb.net/search.php?name=%7BscraperKeyword%7D&platform_id%5B%5D=4971&dsess_selector=img.card-img-top&dsess_attribute=src&dsess_replacer=images%5C%2F.%2A%5C%2Fboxart&dsess_replacer_value=images%2Foriginal%2Fboxart",
+      "DSESS:GENRES:TAGS(scraperKeyword):https://thegamesdb.net/search.php?name=%7BscraperKeyword%7D&platform_id%5B%5D=4971&dsess_target_site_selector=div.col-6+a&dsess_target_site=.%2A%5C%2Fgame.%2A&dsess_selector=div.col-lg-8+div.card-body&dsess_extractor=.%2A%3Cp%3EGenre%5C%28s%5C%29%3A%28.%2A%29%3C%5C%2Fp%3E"
     ],
-    "boxArtAspectRatioId": 0,
-    "useCustomBoxArtAspectRatio": false,
-    "customBoxArtAspectRatio": null,
+    "boxArtAspectRatioId": 2,
+    "useCustomBoxArtAspectRatio": true,
+    "customBoxArtAspectRatio": "3:5",
     "screenAspectRatioId": 0,
-    "useCustomScreenAspectRatio": true,
-    "customScreenAspectRatio": "1.85:1",
-    "retroAchievementsConsoleIdList": [],
-    "extra": ""
+    "useCustomScreenAspectRatio": false,
+    "customScreenAspectRatio": null,
+    "retroAchievementsAlias": null
   },
   "playerList": [
     {
@@ -27,7 +26,7 @@
       "uniqueId": "switch.skyline.emu",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
-      "amStartArguments": "-n skyline.emu/emu.skyline.EmulationActivity\n  -a android.intent.action.VIEW\n  -d {file.uri}",
+      "amStartArguments": "-n skyline.emu/emu.skyline.EmulationActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
@@ -37,7 +36,57 @@
       "uniqueId": "switch.org.stratoemu.strato",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
-      "amStartArguments": "-n org.stratoemu.strato/org.stratoemu.strato.EmulationActivity\n  -a android.intent.action.VIEW\n  -d {file.uri}",
+      "amStartArguments": "-n org.stratoemu.strato/org.stratoemu.strato.EmulationActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - eden",
+      "uniqueId": "switch.dev.eden.eden_emulator",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n dev.eden.eden_emulator/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - eden (Optimized)",
+      "uniqueId": "switch.com.miHoYo.Yuanshen.eden",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n com.miHoYo.Yuanshen/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - eden (Legacy)",
+      "uniqueId": "switch.dev.legacy.eden_emulator",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n dev.legacy.eden_emulator/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - eden (Nightly)",
+      "uniqueId": "switch.dev.eden.eden_nightly",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n dev.eden.eden_nightly/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - eden (Nightly New)",
+      "uniqueId": "switch.dev.eden.eden_emulator.nightly",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n dev.eden.eden_emulator.nightly/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
@@ -47,7 +96,7 @@
       "uniqueId": "switch.org.yuzu.yuzu_emu",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
-      "amStartArguments": "-n org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.activities.EmulationActivity\n  -a android.nfc.action.TECH_DISCOVERED\n  -d {file.uri}",
+      "amStartArguments": "-n org.yuzu.yuzu_emu/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
@@ -57,7 +106,7 @@
       "uniqueId": "switch.org.yuzu.yuzu_emu.ea",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
-      "amStartArguments": "-n org.yuzu.yuzu_emu.ea/org.yuzu.yuzu_emu.activities.EmulationActivity\n  -a android.nfc.action.TECH_DISCOVERED\n  -d {file.uri}",
+      "amStartArguments": "-n org.yuzu.yuzu_emu.ea/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
@@ -67,7 +116,7 @@
       "uniqueId": "switch.dev.suyu.suyu_emu.relWithDebInfo",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
-      "amStartArguments": "-n dev.suyu.suyu_emu.relWithDebInfo/dev.suyu.suyu_emu.activities.EmulationActivity\n  -a android.intent.action.VIEW\n  -d {file.uri}",
+      "amStartArguments": "-n dev.suyu.suyu_emu.relWithDebInfo/dev.suyu.suyu_emu.activities.EmulationActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
@@ -77,7 +126,7 @@
       "uniqueId": "switch.org.sudachi.sudachi_emu",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
-      "amStartArguments": "-n org.sudachi.sudachi_emu/org.sudachi.sudachi_emu.activities.EmulationActivity\n  -a android.nfc.action.TECH_DISCOVERED\n  -d {file.uri}",
+      "amStartArguments": "-n org.sudachi.sudachi_emu/org.sudachi.sudachi_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
@@ -87,7 +136,37 @@
       "uniqueId": "switch.org.sudachi.sudachi_emu.ea",
       "description": "Supported extensions: nro, nso, nca, xci, nsp.",
       "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
-      "amStartArguments": "-n org.sudachi.sudachi_emu.ea/org.sudachi.sudachi_emu.activities.EmulationActivity\n  -a android.nfc.action.TECH_DISCOVERED\n  -d {file.uri}",
+      "amStartArguments": "-n org.sudachi.sudachi_emu.ea/org.sudachi.sudachi_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - Citron",
+      "uniqueId": "switch.org.citron.citron_emu",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n org.citron.citron_emu/org.citron.citron_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - Kenji-NX",
+      "uniqueId": "switch.org.kenjinx.android",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n org.kenjinx.android/.MainActivity\n -a org.kenjinx.android.LAUNCH_GAME\n -e bootPath {file.uri}\n",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "switch - Benji-SC",
+      "uniqueId": "switch.org.benjisc.android",
+      "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+      "amStartArguments": "-n org.benjisc.android/org.kenjinx.android.MainActivity\n -a org.kenjinx.android.LAUNCH_GAME\n -e bootPath {file.uri}\n",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""

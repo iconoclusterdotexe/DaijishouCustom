@@ -27,6 +27,11 @@
       "filename": "cloudgaming.png"
     },
     {
+      "matchPlatformShortname": "collection",
+      "matchPlatformUniqueId": "collection",
+      "filename": "collection.png"
+    },
+    {
       "matchPlatformShortname": "dreamcast",
       "matchPlatformUniqueId": "dreamcast",
       "filename": "dc.png"
@@ -45,6 +50,11 @@
       "matchPlatformShortname": "gba",
       "matchPlatformUniqueId": "gba",
       "filename": "gba.png"
+    },
+    {
+      "matchPlatformShortname": "gamenative",
+      "matchPlatformUniqueId": "gamenative",
+      "filename": "gamenative.png"
     },
     {
       "matchPlatformShortname": "gbc",
@@ -97,6 +107,11 @@
       "filename": "ps2.png"
     },
     {
+      "matchPlatformShortname": "ps3",
+      "matchPlatformUniqueId": "ps3",
+      "filename": "ps3.png"
+    },
+    {
       "matchPlatformShortname": "pc88",
       "matchPlatformUniqueId": "pc88",
       "filename": "pc88.png"
@@ -115,6 +130,11 @@
       "matchPlatformShortname": "psp",
       "matchPlatformUniqueId": "psp",
       "filename": "psp.png"
+    },
+    {
+      "matchPlatformShortname": "ports",
+      "matchPlatformUniqueId": "ports",
+      "filename": "ports.png"
     },
     {
       "matchPlatformShortname": "wii",
@@ -145,6 +165,11 @@
       "matchPlatformShortname": "satellaview",
       "matchPlatformUniqueId": "satellaview",
       "filename": "satellaview.png"
+    },
+    {
+      "matchPlatformShortname": "steam",
+      "matchPlatformUniqueId": "steam",
+      "filename": "steam.png"
     },
     {
       "matchPlatformShortname": "scummvm",
@@ -392,6 +417,11 @@
       "filename": "supergrafx.png"
     },
     {
+      "matchPlatformShortname": "retroarch",
+      "matchPlatformUniqueId": "retroarch",
+      "filename": "retroarch.png"
+    },
+    {
       "matchPlatformShortname": "moonlight",
       "matchPlatformUniqueId": "moonlight",
       "filename": "moonlight.png"
@@ -492,6 +522,21 @@
       "filename": "x1.png"
     },
     {
+      "matchPlatformShortname": "xbone",
+      "matchPlatformUniqueId": "xbone",
+      "filename": "xbone.png"
+    },
+    {
+      "matchPlatformShortname": "xbox",
+      "matchPlatformUniqueId": "xbox",
+      "filename": "xbox.png"
+    },
+    {
+      "matchPlatformShortname": "xbox360",
+      "matchPlatformUniqueId": "xbox360",
+      "filename": "xbox360.png"
+    },
+    {
       "matchPlatformShortname": "wiiu",
       "matchPlatformUniqueId": "wiiu",
       "filename": "wiiu.png"
@@ -505,6 +550,41 @@
       "matchPlatformShortname": "windows",
       "matchPlatformUniqueId": "windows",
       "filename": "windows.png"
+    },
+        {
+      "matchPlatformShortname": "allgames",
+      "matchPlatformUniqueId": "allgames",
+      "filename": "allgames.png"
+    },
+        {
+      "matchPlatformShortname": "favorites",
+      "matchPlatformUniqueId": "favorites",
+      "filename": "favorites.png"
+    },
+        {
+      "matchPlatformShortname": "recent",
+      "matchPlatformUniqueId": "recent",
+      "filename": "recent.png"
+    },
+        {
+      "matchPlatformShortname": "model3",
+      "matchPlatformUniqueId": "model3",
+      "filename": "model3.png"
+    },
+        {
+      "matchPlatformShortname": "idtech",
+      "matchPlatformUniqueId": "idtech",
+      "filename": "IDTech4A++.png"
+    },
+        {
+      "matchPlatformShortname": "triforce",
+      "matchPlatformUniqueId": "triforce",
+      "filename": "triforce.png"
+    },
+        {
+      "matchPlatformShortname": "ndsi",
+      "matchPlatformUniqueId": "ndsi",
+      "filename": "ndsi.png"
     },
     {
       "matchPlatformShortname": "tgcd",

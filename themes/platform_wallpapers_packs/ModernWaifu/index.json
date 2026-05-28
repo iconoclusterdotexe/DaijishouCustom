@@ -418,6 +418,11 @@
       "filename": "ps2.png"
     },
     {
+      "matchPlatformShortname": "ps3",
+      "matchPlatformUniqueId": "ps3",
+      "filename": "ps3.png"
+    },
+    {
       "matchPlatformShortname": "psp",
       "matchPlatformUniqueId": "psp",
       "filename": "psp.png"
@@ -501,6 +506,51 @@
       "matchPlatformShortname": "videos",
       "matchPlatformUniqueId": "videos",
       "filename": "videos.png"
+    },
+    {
+      "matchPlatformShortname": "windows",
+      "matchPlatformUniqueId": "windows",
+      "filename": "windows.png"
+    },
+    {
+      "matchPlatformShortname": "steam",
+      "matchPlatformUniqueId": "steam",
+      "filename": "steam.png"
+    },
+    {
+      "matchPlatformShortname": "ebook",
+      "matchPlatformUniqueId": "ebook",
+      "filename": "ebook.png"
+    },
+    {
+      "matchPlatformShortname": "xcloud",
+      "matchPlatformUniqueId": "xcloud",
+      "filename": "xcloud.png"
+    },
+    {
+      "matchPlatformShortname": "xbox360",
+      "matchPlatformUniqueId": "xbox360",
+      "filename": "xbox360.png"
+    },
+    {
+      "matchPlatformShortname": "model3",
+      "matchPlatformUniqueId": "model3",
+      "filename": "model3.png"
+    },
+    {
+      "matchPlatformShortname": "idtech",
+      "matchPlatformUniqueId": "idtech",
+      "filename": "idtech.png"
+    },
+    {
+      "matchPlatformShortname": "triforce",
+      "matchPlatformUniqueId": "triforce",
+      "filename": "triforce.png"
+    },
+    {
+      "matchPlatformShortname": "xbox",
+      "matchPlatformUniqueId": "xbox",
+      "filename": "xbox.png"
     }
   ]
 }

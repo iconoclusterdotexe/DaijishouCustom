@@ -172,6 +172,11 @@
       "filename": "jaguar.jpg"
     },
     {
+      "matchPlatformShortname": "jaguarcd",
+      "matchPlatformUniqueId": "jaguarcd",
+      "filename": "jaguarcd.jpg"
+    },
+    {
       "matchPlatformShortname": "lynx",
       "matchPlatformUniqueId": "lynx",
       "filename": "lynx.jpg"
@@ -195,6 +200,11 @@
       "matchPlatformShortname": "megaduck",
       "matchPlatformUniqueId": "megaduck",
       "filename": "megaduck.jpg"
+    },
+    {
+      "matchPlatformShortname": "model3",
+      "matchPlatformUniqueId": "model3",
+      "filename": "model3.jpg"
     },
     {
       "matchPlatformShortname": "neogeo",
@@ -267,6 +277,11 @@
       "filename": "segacd.jpg"
     },
     {
+      "matchPlatformShortname": "steam",
+      "matchPlatformUniqueId": "steam",
+      "filename": "steam.jpg"
+    },
+    {
       "matchPlatformShortname": "genesis",
       "matchPlatformUniqueId": "genesis",
       "filename": "genesis.jpg"
@@ -295,6 +310,11 @@
       "matchPlatformShortname": "ps2",
       "matchPlatformUniqueId": "ps2",
       "filename": "ps2.jpg"
+    },
+    {
+      "matchPlatformShortname": "ps3",
+      "matchPlatformUniqueId": "ps3",
+      "filename": "ps3.jpg"
     },
     {
       "matchPlatformShortname": "pico8",
@@ -492,9 +512,19 @@
       "filename": "nomad.jpg"
     },
     {
+      "matchPlatformShortname": "windows",
+      "matchPlatformUniqueId": "windows",
+      "filename": "windows.jpg"
+    },
+    {
       "matchPlatformShortname": "windows9x",
       "matchPlatformUniqueId": "windows9x",
       "filename": "windows9x.jpg"
+    },
+    {
+      "matchPlatformShortname": "wiiu",
+      "matchPlatformUniqueId": "wiiu",
+      "filename": "wiiu.jpg"
     },
     {
       "matchPlatformShortname": "tgcd",

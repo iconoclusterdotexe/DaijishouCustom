@@ -3,6 +3,16 @@
   "platformWallpapersPackList": [
     {
       "platformWallpapersPackAuthors": [
+        "JamesHowlett"
+      ],
+      "platformWallpapersPackDescription": "This theme highlights each platform's stats. It uses very low-saturation backgrounds to make the foreground really pop. Optimized for 16:9 screens, but it should work well on other screens too. Like my other theme, 'Clean Colors,' it uses colors to help differentiate systems.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "0nionsAreGood",
+      "platformWallpapersPackPreviewThumbnailPath": "0nionsAreGood/thumbnail.png",
+      "platformWallpapersPackRootPath": "0nionsAreGood"
+    },
+    {
+      "platformWallpapersPackAuthors": [
         "Sheezie"
       ],
       "platformWallpapersPackDescription": "Minimal text-based theme loosely inspired by my 'Sheezie2Clean' theme for Batocera. Designed for devices with 16:9 aspect ratio. V2 has added artwork on the bottom bar. Indexing by Post Mortem.",
@@ -574,6 +584,26 @@
     },
     {
       "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "Retrofix. A handheld EmulationStation theme originally by 20GotoTen. Over 100 Systems. Ported by Jamesinorbit. 16:9 Widescreen. Indexing by Postmortem.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "Retrofix-16_9",
+      "platformWallpapersPackPreviewThumbnailPath": "Retrofix-16_9/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "Retrofix-16_9"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "Retrofix. A handheld EmulationStation theme originally by 20GotoTen. Over 100 Systems. Ported by Jamesinorbit. 4:3 Retro. Indexing by Postmortem.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "Retrofix-4_3",
+      "platformWallpapersPackPreviewThumbnailPath": "Retrofix-4_3/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "Retrofix-4_3"
+    },
+    {
+      "platformWallpapersPackAuthors": [
         "Tecnos12"
       ],
       "platformWallpapersPackDescription": "A wallpaper pack based on colours and collages of in-game screenshots.",
@@ -651,6 +681,106 @@
       "platformWallpapersPackName": "Tech Grid",
       "platformWallpapersPackPreviewThumbnailPath": "Tech Grid/Galvy_Icon.jpg",
       "platformWallpapersPackRootPath": "Tech Grid"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb AquaSlush. Ported by Jamesinorbit. ",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb AquaSlush",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb AquaSlush/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb AquaSlush"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb BlueGoo. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb BlueGoo",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb BlueGoo/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb BlueGoo"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb DmgDungeon. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb DmgDungeon",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb DmgDungeon/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb DmgDungeon"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb Green Ooze. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb GreenOoze",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb GreenOoze/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb GreenOoze"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb GreyGunk. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb GreyGunk",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb GreyGunk/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb GreyGunk"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb JetBlack. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb JetBlack",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb JetBlack/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb JetBlack"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb OrangeStuff. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb OrangeStuff",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb OrangeStuff/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb OrangeStuff"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb PinkFluff. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb PinkFluff",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb PinkFluff/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb PinkFluff"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb PurpleSlime. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb PurpleSlime",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb PurpleSlime/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb PurpleSlime"
+    },
+    {
+      "platformWallpapersPackAuthors": [
+        "Jamesinorbit"
+      ],
+      "platformWallpapersPackDescription": "A handheld EmulationStation theme originally by TechDweeb and Anthonycaccese. Over 100 Systems. \"Of all the themes you could have downloaded, you chose this one. I hope you're proud of yourself\" - TechDweeb RedSquish. Ported by Jamesinorbit.",
+      "platformWallpapersPackIsNSFW": false,
+      "platformWallpapersPackName": "TechDweeb RedSquish",
+      "platformWallpapersPackPreviewThumbnailPath": "TechDweeb RedSquish/thumbnail.jpg",
+      "platformWallpapersPackRootPath": "TechDweeb RedSquish"
     },
     {
       "platformWallpapersPackAuthors": [
