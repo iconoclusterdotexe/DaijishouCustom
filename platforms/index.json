@@ -240,13 +240,6 @@
       "revisionNumber": 5
     },
     {
-      "filename": "CommodoreVIC20.json",
-      "platformName": "Commodore VIC20",
-      "platformShortname": "vic20",
-      "platformUniqueId": "vic20",
-      "revisionNumber": 5
-    },
-    {
       "filename": "DOOMGameEngine.json",
       "platformName": "DOOM Game Engine",
       "platformShortname": "doom",
