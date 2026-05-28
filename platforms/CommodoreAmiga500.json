@@ -30,8 +30,8 @@
   },
   "playerList": [
     {
-      "name": "amiga - RetroArch 64 - puae",
-      "uniqueId": "amiga.ra64.puae",
+      "name": "amiga500 - RetroArch 64 - puae",
+      "uniqueId": "amiga500.ra64.puae",
       "description": "Supported extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|adf|adz|ccd|chd|cue|dms|fdi|hdf|hdz|info|ipf|iso|lha|m3u|mds|nrg|rp9|slave|uae|zip)$",
       "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO puae\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
@@ -40,8 +40,8 @@
       "extra": ""
     },
     {
-      "name": "amiga - RetroArch 64 - puae2021",
-      "uniqueId": "amiga.ra64.puae2021",
+      "name": "amiga500 - RetroArch 64 - puae2021",
+      "uniqueId": "amiga500.ra64.puae2021",
       "description": "Supported extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|adf|adz|ccd|chd|cue|dms|fdi|hdf|hdz|info|ipf|iso|lha|m3u|mds|nrg|rp9|slave|uae|zip)$",
       "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO puae2021\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
@@ -50,8 +50,8 @@
       "extra": ""
     },
     {
-      "name": "amiga - RetroArch 32 - puae",
-      "uniqueId": "amiga.ra32.puae",
+      "name": "amiga500 - RetroArch 32 - puae",
+      "uniqueId": "amiga500.ra32.puae",
       "description": "Supported extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|adf|adz|ccd|chd|cue|dms|fdi|hdf|hdz|info|ipf|iso|lha|m3u|mds|nrg|rp9|slave|uae|zip)$",
       "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO puae\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg",
@@ -60,8 +60,8 @@
       "extra": ""
     },
     {
-      "name": "amiga - RetroArch 32 - puae2021",
-      "uniqueId": "amiga.ra32.puae2021",
+      "name": "amiga500 - RetroArch 32 - puae2021",
+      "uniqueId": "amiga500.ra32.puae2021",
       "description": "Supported extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|adf|adz|ccd|chd|cue|dms|fdi|hdf|hdz|info|ipf|iso|lha|m3u|mds|nrg|rp9|slave|uae|zip)$",
       "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO puae2021\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg",
@@ -70,8 +70,8 @@
       "extra": ""
     },
     {
-      "name": "amiga - RetroArch - puae",
-      "uniqueId": "amiga.ra.puae",
+      "name": "amiga500 - RetroArch - puae",
+      "uniqueId": "amiga500.ra.puae",
       "description": "Supported extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|adf|adz|ccd|chd|cue|dms|fdi|hdf|hdz|info|ipf|iso|lha|m3u|mds|nrg|rp9|slave|uae|zip)$",
       "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO puae\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg",
@@ -80,8 +80,8 @@
       "extra": ""
     },
     {
-      "name": "amiga - RetroArch - puae2021",
-      "uniqueId": "amiga.ra.puae2021",
+      "name": "amiga500 - RetroArch - puae2021",
+      "uniqueId": "amiga500.ra.puae2021",
       "description": "Supported extensions: 7z, adf, adz, ccd, chd, cue, dms, fdi, hdf, hdz, info, ipf, iso, lha, m3u, mds, nrg, rp9, slave, uae, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|adf|adz|ccd|chd|cue|dms|fdi|hdf|hdz|info|ipf|iso|lha|m3u|mds|nrg|rp9|slave|uae|zip)$",
       "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO puae2021\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg",
